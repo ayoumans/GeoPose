@@ -120,7 +120,7 @@ These terms are intended to align with terms used in OWL-TIME (https://www.w3.or
 
 [NOTE] 
 ====
-Both of the terms <<def_ValidTime,**valid time**>>> and <<def_TransactionTimes,**transaction time**>> are used in ways that can refer to <<def_Instant,**instants**>> or to <<def_TimeLine,**time lines**>>. 
+Both of the terms <<def_ValidTime,**valid time**>> and <<def_TransactionTimes,**transaction time**>> are used in ways that can refer to <<def_Instant,**instants**>> or to <<def_TimeLine,**time lines**>>. 
 ====
 
 [[def_Bi-Temporality]]**Bitemporality** is a property of a data representation that denotes that it carries both <<def_ValidTime,**valid**>> and <<def_TransactionTime,**transaction times**>>.
