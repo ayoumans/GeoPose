@@ -1,4 +1,4 @@
-The GeoPose Conceptual Model(CM) consists of linked definitions of terms denoting concepts expressed in the GeoPose LM and structural data unit(SDU) specifications for the standardization targets. The CM describes a (non-normative) domain of discourse for terms used in defining a precise and normative Logical Model(LM) expressed as a Unified Modelling Language (UML) class diagram.
+The GeoPose Conceptual Model (CM) consists of linked definitions of terms denoting concepts expressed in the GeoPose LM and structural data unit (SDU) specifications for the standardization targets. The CM describes a (non-normative) domain of discourse for terms used in defining a precise and normative Logical Model (LM) expressed as a Unified Modelling Language (UML) class diagram.
 
 The scope of the standardization targets is a subset of the scope of the LM. The scope of the LM is a subset of the scope of the Conceptual Model. The standardization targets are mutually independent implementations of subsets of the LM. The standardization targets are expressed in Extended Backus-Naur Form where all terminal symbols reference attributes of classes in the LM.
 
